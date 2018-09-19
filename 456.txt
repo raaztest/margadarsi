@@ -6,5 +6,10 @@ om sai devayanamaha f698369e8e16549e1c81efe36b490fd60f42d4be
 
 
 om vinayakaya namaha
+<<<<<<< HEAD
 
 chinni krishnaya namaha
+=======
+om srianjanaya namonamaha
+>>>>>>> 66987a1675de7f9db3f949898e4b8eb1626bf20b
+
