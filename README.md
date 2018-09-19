@@ -1,3 +1,0 @@
-# margadarsi 
-
-om namashivaya
